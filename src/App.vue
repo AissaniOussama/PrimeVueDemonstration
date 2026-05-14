@@ -80,7 +80,7 @@ import Tooltip from 'primevue/tooltip'
 import Toast from 'primevue/toast'
 import ConfirmDialog from 'primevue/confirmdialog'
 
-// Direktive global registrieren
+
 import { getCurrentInstance } from 'vue'
 const app = getCurrentInstance()?.appContext.app
 if (app) app.directive('tooltip', Tooltip)
