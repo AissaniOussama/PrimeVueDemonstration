@@ -12,12 +12,18 @@ npm install
 npm run dev
 
 # 3. Im Browser öffnen
-# → http://localhost:5173
+# in der Konsole erscheint ein localhost Link -> auf diesen Klicken
+
 ```
+
+## alternativ
+
+https://aissanioussama.github.io/PrimeVueDemonstration/
 
 ## Projektstruktur
 
 ```
+
 src/
   main.js              ← PrimeVue-Konfiguration (Einstiegspunkt)
   App.vue              ← Sidebar-Navigation & Layout
@@ -34,6 +40,7 @@ src/
     MessagesView.vue   ← Message, Tag, Badge, Chip, ProgressBar
     PanelsView.vue     ← Card, Panel, Accordion, Tabs
     ThemingView.vue    ← Preset-System, Design-Tokens, Dark Mode
+
 ```
 
 ## Stack
