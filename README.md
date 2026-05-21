@@ -47,13 +47,3 @@ src/
 | Prism.js | 1.30.0 |
 | Vite | 6.x |
 
-## Für die Präsentation
-
-Die App dient als **Live-Demo** (5 Minuten). Empfohlene Reihenfolge:
-
-1. **Übersicht** – Was ist PrimeVue, Setup-Snippet zeigen
-2. **Button** – Varianten, Severity, Loading-State
-3. **Formulare** – Select mit Filter, DatePicker
-4. **DataTable** – Sortierung klicken, Suchfilter nutzen
-5. **Overlays** – Toast-Buttons klicken, Dialog öffnen
-6. **Theming** – Token-Architektur erklären, Dark Mode toggle
